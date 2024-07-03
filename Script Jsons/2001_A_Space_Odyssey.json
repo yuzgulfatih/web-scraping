@@ -1,0 +1,36 @@
+{
+    "filename": "2001-A-Space-Odyssey_script.txt",
+    "imdb_id": "tt0062622",
+    "imdb_url": "https://www.imdb.com/title/tt0062622",
+    "characters": [
+        "Mission Controller (voice)",
+        "Dr. Bill Michaels",
+        "Aries-1B Lunar Shuttle Captain (as Edward Bishop)",
+        "Elena",
+        "Poole's Mother",
+        "Dr. Frank Poole",
+        "HAL 9000 (voice)",
+        "Poole's Father",
+        "Dr. Dave Bowman",
+        "Astronaut",
+        "Dr. Heywood R. Floyd",
+        "Dr. Andrei Smyslov",
+        "Dr. Ralph Halvorsen",
+        "Moon-Watcher"
+    ],
+    "dialogues": {
+        "Elena": "How nice to see you, Hyewood.     This is my good friend, Dr.     Heywood Floyd. I'd like you     to meet Andre Smyslov...       And this is Dr. Kalinan...     Stretyneva...       Well... How's your lovely     wife?  12/7/65  b29       And your charming little daughter?       Oh, that's such a delightful age.       He's fine. But I'm afraid we     don't get a chance to see each     other very much these days.       Actually, we're on our way back     from the moon. We've just     spent three months calibrating     the new antenna at Tchalinko.     And what about you?       Another thing, Heywood, two     days ago, one of our rocket     buses was denied permission     for an emergency landing at     Clavius.  12/7/65  b33       Clavius Control came on the     air just long enough to transmit     their refusal.        Are you sure you won't change     your mind about a drink?       Well, I hope that you and your     wife can come to the I.A.C.     conference in June.  12/7/65  b33c      Well, Gregor and I will look     forward to seeing you.",
+        "Poole's": "The purpose of this mission is no     more than to carry out a     continuation of the space program     and further our general knowledge     of the planets. Is this true?",
+        "Mother": "David... again we want to wish     you a happy Birthday and God speed.     We'll talk to you again tomorrow.     'Bye, 'bye now.",
+        "Father": "Well, David there is a man telling     us that we've used up our time.",
+        "Astronaut": ""
+    },
+    "imdb_rating": "8.3",
+    "imdb_image_url": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "description": "\"2001\" is a story of evolution. Sometime in the distant past, someone or something nudged evolution by placing a monolith on Earth (presumably elsewhere throughout the universe as well). Evolution then enabled humankind to reach the moon's surface, where yet another monolith is found, one that signals the monolith placers that humankind has evolved that far. Now mankind, assisted by artificial intelligence (such as HAL), must dare to encounter the monolith placers. If successful, the next step in evolution--whatever it is--will be achieved.—Larry Cousins",
+    "name": "2001: A Space Odyssey",
+    "genres": [
+        "Adventure",
+        "Sci-Fi"
+    ]
+}

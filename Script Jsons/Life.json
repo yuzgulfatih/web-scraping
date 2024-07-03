@@ -1,0 +1,49 @@
+{
+    "filename": "Life_script.txt",
+    "imdb_id": "tt5442430",
+    "imdb_url": "https://www.imdb.com/title/tt5442430",
+    "characters": [
+        "20 /20 Anchor",
+        "Student 3 (as Leila Grace Bostwick-Riddell)",
+        "Sho Murakami",
+        "Hugh Derry",
+        "Student 1",
+        "Student 4",
+        "Rory Adams",
+        "Miranda North",
+        "Student 2",
+        "Doctor",
+        "Kazumi",
+        "Ekaterina Golovkina (as Olga Dihovichnaya)",
+        "Dominique",
+        "David Jordan"
+    ],
+    "dialogues": {
+        "Sho": "",
+        "Murakami": "",
+        "Hugh": "",
+        "Derry": "",
+        "Student": "",
+        "1": "Congratulations, Claude. We understand you finally got yourself a job.  Twenty-two dollars. Not bad for a start.  Where were the two convicts when the shot was fired?  Two Percodan.  What the fuck are those?  I look like I give a shit about my cholesterol?",
+        "4": "",
+        "Rory": "",
+        "Adams": "",
+        "Miranda": "",
+        "North": "",
+        "2": "Guess that means you can pay Mr. Riley the fifty bucks you owe him.  How about your legs?  You want a bump, G?",
+        "Doctor": "She'll be fine. She just had a bit of a shock.  She's doing just fine.",
+        "Kazumi": "",
+        "Dominique": "",
+        "David": "",
+        "Jordan": ""
+    },
+    "imdb_rating": "6.6",
+    "description": "Life tells the story of the six-member crew of the International Space Station that is on the cutting edge of one of the most important discoveries in human history: the first evidence of extraterrestrial life on Mars. As the crew begins to conduct research, their methods end up having unintended consequences and the life form proves more intelligent than anyone ever expected.—Sony Pictures",
+    "name": "Life",
+    "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "imdb_image_url": "https://m.media-amazon.com/images/M/MV5BYzBlNzIyY2UtZjk0Ni00NTE3LWI3OTUtNmRlNWE5NjZjNjhmXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_QL75_UY281_CR3,0,190,281_.jpg"
+}
